@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("this is first move !\n");
+    printf("this is first move!\n");
     return 0;
 }
